@@ -1,0 +1,12 @@
+D:\3 курс\Коноплев\Приемная комиссия\bin\Debug\Приемная комиссия.exe.config
+D:\3 курс\Коноплев\Приемная комиссия\bin\Debug\Приемная комиссия.exe
+D:\3 курс\Коноплев\Приемная комиссия\bin\Debug\Приемная комиссия.pdb
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная комиссия.csproj.AssemblyReference.cache
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная комиссия.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная_комиссия.Form1.resources
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная_комиссия.Properties.Resources.resources
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная комиссия.csproj.GenerateResource.cache
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная комиссия.csproj.CoreCompileInputs.cache
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная комиссия.exe
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная комиссия.pdb
+D:\3 курс\Коноплев\Приемная комиссия\obj\Debug\Приемная_комиссия.Abiturientinfo_form.resources
