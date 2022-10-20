@@ -109,8 +109,8 @@ namespace Приемная_комиссия
 
         private void Change_Click(object sender, EventArgs e)
         {
-            var infoForm = new Abiturientinfo_form();
             var data = (Abiturient)dataGridView1.Rows[dataGridView1.SelectedRows[0].Index].DataBoundItem;
+            var infoForm = new Abiturientinfo_form(data);
             infoForm.Text = "Редактирование абитуриента";
             if (infoForm.ShowDialog(this) == DialogResult.OK)
             {
